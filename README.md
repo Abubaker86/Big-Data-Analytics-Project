@@ -11,4 +11,4 @@
 	3 Modeling
         
         
-        ## Another file has been attached showing the initial code results for XGBoost model. (To be continued)
+        ## Initial Results file has been attached showing the initial code results for XGBoost model. (To be continued)
